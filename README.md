@@ -1,6 +1,8 @@
 # RidlinUS
-AI-powered smart pet collar platform — real-time health monitoring, GPS tracking, and pain detection for dogs and cats. Built by a DVM + PhD team of grad entreprenurship fellows at UConn 2025-26
+AI-powered smart pet collar platform — real-time health monitoring, GPS tracking, and pain detection for dogs and cats. Built by a DVM + PhD team of grad entrepreneurship fellows at UConn 2025-26
 What is Ridlin?
+
+Our site is live at https://grvdutta96.github.io/RidlinUS/
 
 Ridlin is an AI-powered smart collar platform that monitors your pet's health in real time — temperature, heart rate, stress (HRV), GPS location, pain indicators, sleep score, activity, posture, calories, and respiration — so pet parents are always connected to what matters most.
 
